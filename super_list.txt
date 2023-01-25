@@ -1,0 +1,29 @@
+Chin										MANE			URL															file type	user	password
+אלמשהדאוי קינג סטור בע"מ					קינג-סטור		https://www.kingstore.co.il/Food_Law/Main.aspx				zip
+ג.מ מעיין אלפיים (07) בע"מ					מעיין 2000		http://maayan2000.binaprojects.com/Main.aspx				zip
+דור אלון ניהול מתחמים קמעונאיים בע"מ		דור אלון		publishedprices.co.il										gz			doralon
+ויקטורי רשת סופרמרקטים בע"מ					ויקטורי			http://matrixcatalog.co.il/NBCompetitionRegulations.aspx	gz
+זול ובגדול בע"מ								זול ובגדול		http://zolvebegadol.binaprojects.com/Main.aspx				zip
+טיב טעם רשתות בע"מ							טיב טעם			publishedprices.co.il										gz			TivTaam
+"יינות ביתן בע""מ (ע.ר צים שיווק בע""מ, היפר רמה בע""מ, א. אמדן קמעונאות והשקעות בע""מ ומגה קמעונאות בע""מ	"
+											יינות ביתן		http://publishprice.ybitan.co.il/
+											מגה				http://publishprice.mega.co.il/
+											מגה מרקט		http://publishprice.mega-market.co.il/
+כ.נ מחסני השוק בע"מ							מחסני השוק		http://matrixcatalog.co.il/NBCompetitionRegulations.aspx
+כל בו חצי חינם בע"מ							חצי חינם		publishedprices.co.il													HaziHinam
+מ. יוחננוף ובניו (1988) בע"מ				יוחננוף			publishedprices.co.il													yohananof
+מרב-מזון כל בע"מ (אושר עד)					אושרעד			publishedprices.co.il													osherad
+נתיב החסד - סופר חסד בע"מ (כולל ברכל)		סופר חסד		http://141.226.222.202/
+סאלח דבאח ובניו בע"מ						דבאח			publishedprices.co.il													SalachD	12345
+סופר פארם (ישראל) בע"מ						סופרפארם		http://prices.super-pharm.co.il/
+סטופ מרקט בע"מ								סטופ מרקט		publishedprices.co.il													Stop_Market
+עוף והודו ברקת - חנות המפעל בע"מ			ברקת			http://www.matrixcatalog.co.il/
+פז חברת נפט בע"מ							יילו			publishedprices.co.il													Paz_bo	paz468
+											סופר יודה		http://paz.binaprojects.com/Main.aspx
+פרשמרקט בע"מ (כולל סופר דוש)				פרשמרקט			publishedprices.co.il													freshmarket
+קשת טעמים בע"מ								קשת טעמים		publishedprices.co.il													Keshet
+רשת חנויות רמי לוי שיווק השקמה 2006 בע"מ	רמי לוי			publishedprices.co.il													RamiLevi
+רשת סופר קופיקס								סופר קופיקס		publishedprices.co.il													SuperCofixApp
+שופרסל בע"מ (כולל רשת BE)					שופרסל			http://prices.shufersal.co.il/
+שוק העיר (ט.ע.מ.ס) בע"מ						שוק העיר		http://shuk-hayir.binaprojects.com/Main.aspx
+שפע ברכת השם בע"מ							שפע ברכת השם	http://shefabirkathashem.binaprojects.com/Main.aspx	zip
